@@ -194,3 +194,12 @@ extra CSS
 expo install expo-linear-gradient
 
 ```
+
+# TODO :
+
+- finish likes and comments(backend + frontend/mobile)
+- Test with jest
+- Storybook to implement
+- Deploy heroku/firebase
+- Stripe/paiement test
+- Applestore/GooglePlayStore
