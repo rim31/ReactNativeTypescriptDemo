@@ -1,6 +1,8 @@
 
 # [React Native - Typescript](https://reactnative.dev/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE) [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) 
 
+![](assets/demo1.gif)
+
 Technos : mobile 
 - react native
 - yarn/npm
@@ -35,6 +37,11 @@ backend (to link)
 
 ![](assets/EE.png)
 ![](assets/FF.png)
+
+- upload image, and save them
+
+![](assets/demo.gif)
+
 
 ## 3. Register user
 ![](assets/BB.png)
